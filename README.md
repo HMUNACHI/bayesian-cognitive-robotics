@@ -10,8 +10,7 @@ ndubuakuhenry@gmail.com
 Catkin with RosPy and Bayesian packages installed.
 
 # USAGE
-
-![Alt text](/images/demo.mp4 "BLIP Demo")
+https://user-images.githubusercontent.com/26547576/226372870-314827f3-4643-4dcc-89df-8b84097364a7.mp4
 
 *Move the inner blip folder to your catkin_ws workspace src folder
 
