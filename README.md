@@ -26,4 +26,4 @@ https://user-images.githubusercontent.com/26547576/226372870-314827f3-4643-4dcc-
    3. chmod +x robot_controller.py
    4. chmod +x robot_expression_prediction.py
 
-6. Run the launch file using "roslaunch blip human_robot_interaction.launch"
+6. Run the launch file using "roslaunch blip blip.launch"
