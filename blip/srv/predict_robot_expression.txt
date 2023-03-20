@@ -1,0 +1,3 @@
+perceived_info observation
+---
+robot_info prediction

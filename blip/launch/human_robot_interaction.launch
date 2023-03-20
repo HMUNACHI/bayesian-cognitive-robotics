@@ -1,0 +1,6 @@
+<launch>
+        <node name="interaction_generator" pkg="blip" type="interaction_generator.py"/>
+        <node name="perception_filter" pkg="blip" type="perception_filter.py"/>
+        <node name="robot_controller" pkg="blip" type="robot_controller.py"/>
+        <node name="robot_expression_prediction" pkg="blip" type="robot_expression_prediction.py"/>
+</launch>	
