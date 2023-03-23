@@ -1,4 +1,4 @@
-# BLIP: A Bayesian Belief Network For Generating A Robot's Facial Expression In ROS
+# BLIP: A Bayesian Belief Network For Generating A Robot's Facial Expression Based On Human Action.0
 
 ![Alt text](/images/diagram.jpg "BLIP Diagram")
 
